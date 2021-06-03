@@ -10,3 +10,7 @@ Version2 작성.
 
 Version 3 생성. 
 새로운 Merge를 확인해보자. 
+
+
+master branch   에서도 한줄 추가 한다. 
+충돌 유발. 
