@@ -7,3 +7,6 @@
 - push : github 원격 저장소에 커밋을 업로드 한다. 
 
 Version2 작성. 
+
+Version 3 생성. 
+새로운 Merge를 확인해보자. 
